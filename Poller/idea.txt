@@ -1,0 +1,2 @@
+1. Find django secret from public github
+2. Use secret to make a signed pickle cookie to get RCE.

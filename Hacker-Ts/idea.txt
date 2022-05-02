@@ -1,0 +1,4 @@
+1. Fuzz to find /admin and notice it's only accisable from localhost
+2. Iframe `localhost:5000/admin`
+3. Use sandbox attribute to avoid errors related to js rendering error
+4. Change width and height style to read intere flag

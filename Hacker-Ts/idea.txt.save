@@ -1,0 +1,4 @@
+1. Route Fuzzing and you will notice /admin is only accisble from localhost
+2. Using SSRF in wkhtmltoimage to iframe `localhost:5000/admin`
+3. sandbox attribute to avoid js errors (it will disable javascript in iframe)
+4. use width and 

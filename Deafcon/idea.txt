@@ -1,0 +1,5 @@
+1. Jinja Template Injection
+2. Unicode normalization to bypass check of parentheses
+```
+UTF-8 full-width characters : %EF%BC%88 and %EF%BC%89
+```
